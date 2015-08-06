@@ -9,5 +9,4 @@ This is an added text message that goes into README file.
 Best,
 You-know-who.
 
-
-Ok. This is another attempt to fix the issue. :)
+P.S. Ok. This is another attempt to fix the issue. :)
